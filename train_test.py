@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
+# import pandas as pd
 
 # Populate the data set
 np.random.seed(2)
@@ -50,6 +50,7 @@ plt.show()
 
 # Now test the model accuracy
 from sklearn.metrics import r2_score
+
 r2 = r2_score(testY, p8(testX))
 print('Accuracy is = ', r2)
 
