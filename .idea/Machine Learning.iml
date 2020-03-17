@@ -5,6 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (env_files)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Time_serise" />
+    <orderEntry type="module" module-name="CodeBasics" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
