@@ -56,3 +56,6 @@ print('Accuracy is = ', r2)
 
 r2 = r2_score(np.array(trainY), p8(np.array(trainX)))
 print('New model accuracy = ', r2)
+
+
+print('Finished ')
