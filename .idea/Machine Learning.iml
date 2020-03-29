@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Time_serise" />
     <orderEntry type="module" module-name="CodeBasics" />
+    <orderEntry type="module" module-name="practice" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
