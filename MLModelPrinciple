@@ -127,7 +127,8 @@ print(score_dataset(imputed_X_train_plus, imputed_X_valid_plus, y_train, y_valid
 
 #-------Save predictions in format used for competition scoring ---------
 
-output = pd.DataFrame({'Id': X_test.index, alePrice': preds_test})
-output.to_csv('submission.csv', index=False)
+# Save test predictions to file
+output = pd.DataFrame({'Id': X_test.index,'SalePrice': preds_test})
+output.to_csv('submission3.csv', index=False)
 
 #------------------------------------------------------------------------
