@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AHD_GPM/.idea/AHD_GPM.iml" filepath="$PROJECT_DIR$/../AHD_GPM/.idea/AHD_GPM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Best-on-Python/.idea/Best-on-Python.iml" filepath="$PROJECT_DIR$/../Best-on-Python/.idea/Best-on-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CodeBasics/.idea/CodeBasics.iml" filepath="$PROJECT_DIR$/../CodeBasics/.idea/CodeBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day2/.idea/Day2.iml" filepath="$PROJECT_DIR$/../Day2/.idea/Day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/.idea/Machine Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NDM_wise_Outstanding/.idea/NDM_wise_Outstanding.iml" filepath="$PROJECT_DIR$/../NDM_wise_Outstanding/.idea/NDM_wise_Outstanding.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Time_serise/.idea/Time_serise.iml" filepath="$PROJECT_DIR$/../Time_serise/.idea/Time_serise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gmp_report_with_functions/.idea/gmp_report_with_functions.iml" filepath="$PROJECT_DIR$/../gmp_report_with_functions/.idea/gmp_report_with_functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
     </modules>
   </component>

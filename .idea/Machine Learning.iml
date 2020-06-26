@@ -2,11 +2,16 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.7 (env_files)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Env_Files)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Time_serise" />
     <orderEntry type="module" module-name="CodeBasics" />
     <orderEntry type="module" module-name="practice" />
+    <orderEntry type="module" module-name="AHD_GPM" />
+    <orderEntry type="module" module-name="Best-on-Python" />
+    <orderEntry type="module" module-name="Day2" />
+    <orderEntry type="module" module-name="gmp_report_with_functions" />
+    <orderEntry type="module" module-name="NDM_wise_Outstanding" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
