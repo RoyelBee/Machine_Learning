@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../AHD_GPM" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Best-on-Python" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../NDM_wise_Outstanding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SKF_Outstanding_Report" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../gmp_report_with_functions" vcs="Git" />
   </component>
 </project>
