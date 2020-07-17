@@ -2,12 +2,12 @@ print('This is a decision tree test file')
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.tree import tree
-from sklearn.externals.six import StringIO
+# from sklearn.externals.six import StringIO
 from IPython.display import Image
 import pydotplus
 
 # Import data set
-df = pd.read_csv('G:/python/Machine Learning/data/hired_data.csv', header=0)
+df = pd.read_csv('D:/Python Code/Machine_Learning/Data/hired_data.csv', header=0)
 print(df.columns)
 
 # Process the dataset
